@@ -1,5 +1,4 @@
 import React from 'react';
-import qs from 'query-string';
 
 export class TicTacToeBoard extends React.Component {
     onClick(id) {
